@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-UFPA_Adventure-0.1.0";
+const cacheName = "DefaultCompany-UFPA_Adventure-0.1.1";
 const contentToCache = [
-    "Build/teste3.loader.js",
-    "Build/teste3.framework.js",
-    "Build/teste3.data",
-    "Build/teste3.wasm",
+    "Build/UFPA_ADVENTURESTESTE2.loader.js",
+    "Build/UFPA_ADVENTURESTESTE2.framework.js",
+    "Build/UFPA_ADVENTURESTESTE2.data",
+    "Build/UFPA_ADVENTURESTESTE2.wasm",
     "TemplateData/style.css"
 
 ];
