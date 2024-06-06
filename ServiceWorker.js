@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-UFPA_Adventure-0.1.1";
+const cacheName = "DefaultCompany-UFPA_Adventure-0.1.12";
 const contentToCache = [
     "Build/UFPA_ADVENTURESTESTE2.loader.js",
     "Build/UFPA_ADVENTURESTESTE2.framework.js",
